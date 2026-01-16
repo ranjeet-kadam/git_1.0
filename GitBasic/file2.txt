@@ -1,1 +1,2 @@
 First Intial with file2.txt
+Command to intialize git repository is git init.
