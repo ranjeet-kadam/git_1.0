@@ -5,3 +5,5 @@ This is the second line of the image file.
 The switch case functionality is not working.
 
 The file is working now. Good to go.
+
+The switch case functionality is working now.
