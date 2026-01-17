@@ -1,1 +1,3 @@
 This is the image file.
+
+This is the second line of the image file.
