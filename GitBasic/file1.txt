@@ -1,4 +1,4 @@
 This is my first file in git.
 use of path in the git command is git <command> <path>
 Adding the key information to the table.
-Adding the mobile numbers in the table.q
+Adding the mobile numbers in the table.
