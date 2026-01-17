@@ -7,3 +7,11 @@ This is the third line of the image file.
 This is the fourth line of the image file.
 
 This is the fifth line of the image file.
+The switch case functionality is working now.
+
+The file is updated via dev and master.
+
+The file is updated via dev and master.
+
+The file is updated via dev and master.
+
